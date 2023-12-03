@@ -1,1 +1,22 @@
-/*  your css code here. If applicable */
+.hero{
+    display:flex;
+    align-items: start;
+    justify-content: start;
+   
+}
+ .hero img{
+    width: 90%;
+    height: 500px;
+    object-fit: cover;
+}
+.hero h1 p{
+    margin-top: 50px;
+}
+
+button{
+ background-color: red;
+ color: white;
+ border-radius: 3px;
+padding: 10px;
+}
+
